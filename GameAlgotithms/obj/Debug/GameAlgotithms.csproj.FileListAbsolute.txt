@@ -1,0 +1,8 @@
+\\psf\Home\Desktop\Друк\SoapMaze\GameAlgotithms\bin\Debug\GameAlgotithms.dll
+\\psf\Home\Desktop\Друк\SoapMaze\GameAlgotithms\bin\Debug\GameAlgotithms.pdb
+\\psf\Home\Desktop\Друк\SoapMaze\GameAlgotithms\obj\Debug\GameAlgotithms.dll
+\\psf\Home\Desktop\Друк\SoapMaze\GameAlgotithms\obj\Debug\GameAlgotithms.pdb
+\\psf\Home\Desktop\Друк\Algorithms\GameAlgotithms\bin\Debug\GameAlgotithms.dll
+\\psf\Home\Desktop\Друк\Algorithms\GameAlgotithms\bin\Debug\GameAlgotithms.pdb
+\\psf\Home\Desktop\Друк\Algorithms\GameAlgotithms\obj\Debug\GameAlgotithms.dll
+\\psf\Home\Desktop\Друк\Algorithms\GameAlgotithms\obj\Debug\GameAlgotithms.pdb
